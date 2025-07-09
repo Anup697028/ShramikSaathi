@@ -2,8 +2,11 @@
  ShramikSaathi
 
 ShramikSaathi is a modern platform built to connect daily wage workers with employers in real time. Inspired by the gig economy, the app serves as a digital bridge between skilled/unskilled workers and those seeking on-demand services — enhancing employment access, transparency, and dignity of labor.
+
 About
+
 ShramikSaathi aims to provide an all-in-one solution for discovering, hiring, and managing daily wage workers across various sectors. The platform empowers laborers by giving them visibility, verified profiles, and fair job opportunities while making it easier for employers to find the right talent with minimal friction.
+
 Features
 
 Worker Discovery: Search and filter daily wage workers by skill, location, and rating
@@ -22,8 +25,6 @@ Getting Started
 To run the app locally, make sure you have *Node.js and npm installed (preferably via `nvm`).
 
 Steps:
-
-
  Step 1: Clone the repository
 git clone https://github.com/Anup697028/ShramikSaathi.git
 
@@ -44,13 +45,16 @@ Tailwind CSS – Utility-first styling
 shadcn/ui*l – Modern UI components
 Firebase / Supabase (if used) – For auth, database, or storage (optional)
 
+
+
 Deployment
 
-
-
 [Vercel](https://vercel.com)
+
 [Netlify](https://netlify.com)
+
 [Render](https://render.com)
+
 [Firebase Hosting](https://firebase.google.com/products/hosting) [Heroku](https://heroku.com)
 
 🔗 Repository Links
